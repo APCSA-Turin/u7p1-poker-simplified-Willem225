@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestPlayer" tests="19" skipped="0" failures="0" errors="0" timestamp="2025-04-28T03:20:13.321Z" hostname="codespaces-801158" time="0.102">
+  <properties/>
+  <testcase name="testStraight()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testAddCard()" classname="com.example.project.TestPlayer" time="0.032"/>
+  <testcase name="testSortAllCards()" classname="com.example.project.TestPlayer" time="0.006"/>
+  <testcase name="testThreeOfAKindNoPair1()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testThreeOfAKindNoPair2()" classname="com.example.project.TestPlayer" time="0.0"/>
+  <testcase name="testFlush()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testPair()" classname="com.example.project.TestPlayer" time="0.002"/>
+  <testcase name="testToString()" classname="com.example.project.TestPlayer" time="0.006"/>
+  <testcase name="testFullHouse()" classname="com.example.project.TestPlayer" time="0.0"/>
+  <testcase name="testFourOfAKindNoPair()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testStraightDifferentSuits()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testHighCard()" classname="com.example.project.TestPlayer" time="0.003"/>
+  <testcase name="testRoyalFlush()" classname="com.example.project.TestPlayer" time="0.003"/>
+  <testcase name="testThreeOfAKindWithPair()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testStraightFlush()" classname="com.example.project.TestPlayer" time="0.0"/>
+  <testcase name="testTwoPairNoPair()" classname="com.example.project.TestPlayer" time="0.0"/>
+  <testcase name="testTwoPairWithPair()" classname="com.example.project.TestPlayer" time="0.001"/>
+  <testcase name="testFourOfAKindPair()" classname="com.example.project.TestPlayer" time="0.0"/>
+  <testcase name="testNothing()" classname="com.example.project.TestPlayer" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -16,7 +16,6 @@ public class Deck{
     }
 
     public  void initializeDeck(){ //hint.. use the utility class
-        ArrayList<rank> list = new ArrayList<rank>();
     }
 
     public  void shuffleDeck(){ //You can use the Collections library or another method. You do not have to create your own shuffle algorithm
